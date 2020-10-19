@@ -1,0 +1,111 @@
+/* normal styles*/
+body{
+  font-family: 'Montserrat', sans-serif;
+}
+
+p{
+  font-weight: lighter;
+  color: #8f8f8f;
+}
+
+h2{
+  font-size: 2rem;
+  line-height: 1.5;
+}
+/* id styles*/
+#title{
+  background-color: #ff4c68;
+}
+
+#features{
+  padding: 7% 15%;
+}
+
+#testimonials{
+  background-color: #ef8172;
+  text-align: center;
+  color: #fff;
+}
+
+#press{
+  background-color: #ef8172;
+  text-align: center;
+  padding-bottom: 2rem;
+}
+
+#pricing{
+  text-align: center;
+  padding: 7% 15%;
+}
+
+#cta{
+  background-color: #ef8172;
+  text-align: center;
+}
+/* class styles*/
+
+.heading{
+  font-family: 'Montserrat', sans-serif;
+  font-size: 3rem;
+  line-height: 1.5;
+  color: white;
+}
+
+.container-fluid{
+  padding: 3% 15%;
+}
+
+.navbar{
+  padding: 0 0 4.5rem;
+}
+
+.nav-item{
+  padding: 0 18px;
+}
+
+.download-button{
+  margin: 5% 3% 5% 0;
+}
+
+.title-image{
+  width: 40%;
+  transform: rotate(15deg);
+  margin-left: 200px;
+}
+
+.feature-box{
+  text-align: center;
+  padding: 5%;
+}
+
+.icon{
+  color: #ef8172;
+  margin: 30px 0;
+}
+
+.icon:hover{
+  color: #ff4c68;
+}
+
+.testimonial-image{
+  border-radius: 50%;
+  width: 25%;
+  margin: 20px;
+}
+
+.brand-logo{
+  width: 15%;
+  margin: 20px;
+}
+
+.carousel-item{
+  padding: 7% 18%;
+}
+
+.pricing-row{
+  margin-top: 5rem;
+}
+
+.card-header{
+  background-color: #ef8172;
+}
