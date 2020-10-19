@@ -42,6 +42,13 @@ h2{
   background-color: #ef8172;
   text-align: center;
 }
+
+#footer{
+  text-align: center;
+  margin: 10px auto;
+  font-family: 'Open Sans Condensed', sans-serif;
+  font-weight: bold;
+}
 /* class styles*/
 
 .heading{
